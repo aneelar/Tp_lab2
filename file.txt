@@ -1,0 +1,4 @@
+hi;
+privet hi;
+privet poka.
+poka hi;
